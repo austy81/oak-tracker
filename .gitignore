@@ -27,4 +27,4 @@ share/python-wheels/
 MANIFEST
 
 # Environments
-.venv
+venv
